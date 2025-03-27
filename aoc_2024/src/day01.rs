@@ -69,6 +69,8 @@ pub fn run() {
     // part02
     let similarity_score = find_similarity(&mut vec_pair);
     println!("Day01.02 {}", similarity_score);
+
+    println!("----------------------------------");
 }
 
 //write some tests!
